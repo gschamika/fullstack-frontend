@@ -19,6 +19,8 @@ export default function Navbar() {
           >
             <span className="navbar-toggler-icon"></span>
           </button>
+
+          <button className="btn btn-outline-light">Add User</button>
         </div>
       </nav>
     </div>
